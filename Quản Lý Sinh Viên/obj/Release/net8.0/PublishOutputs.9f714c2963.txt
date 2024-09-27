@@ -1,0 +1,5 @@
+D:\Bài Tập SV\HDT_OOP\Đồ Án _ Quản Lý Sinh Viên\Đồ Án _ Quản Lý Sinh Viên\Quản Lý Sinh Viên\bin\Release\net8.0\app.publish\Quản Lý Sinh Viên.exe
+D:\Bài Tập SV\HDT_OOP\Đồ Án _ Quản Lý Sinh Viên\Đồ Án _ Quản Lý Sinh Viên\Quản Lý Sinh Viên\bin\Release\net8.0\app.publish\Quản Lý Sinh Viên.dll
+D:\Bài Tập SV\HDT_OOP\Đồ Án _ Quản Lý Sinh Viên\Đồ Án _ Quản Lý Sinh Viên\Quản Lý Sinh Viên\bin\Release\net8.0\app.publish\Quản Lý Sinh Viên.deps.json
+D:\Bài Tập SV\HDT_OOP\Đồ Án _ Quản Lý Sinh Viên\Đồ Án _ Quản Lý Sinh Viên\Quản Lý Sinh Viên\bin\Release\net8.0\app.publish\Quản Lý Sinh Viên.runtimeconfig.json
+D:\Bài Tập SV\HDT_OOP\Đồ Án _ Quản Lý Sinh Viên\Đồ Án _ Quản Lý Sinh Viên\Quản Lý Sinh Viên\bin\Release\net8.0\app.publish\Quản Lý Sinh Viên.pdb
